@@ -5,4 +5,5 @@ The data that I extract are:
 1. Title
 2. Price
 3. Rating
+
 As a result, I store the data in a dataframe, so it can be used easily for the information of price and rating each book.
