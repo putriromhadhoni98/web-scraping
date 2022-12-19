@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 15 16:13:07 2021
-
-@author: hp
-"""
-
 ### WEB SCRAPING USING BEAUTIFUL SOUP ###
 
 import requests
