@@ -59,4 +59,6 @@ book_info['Rating'].replace("Three", 3, inplace = True)
 book_info['Rating'].replace("Four", 4, inplace = True)
 book_info['Rating'].replace("Five", 5, inplace = True)  
 
+print('testing')
+print('halo ini hanya testing')
   
