@@ -31,6 +31,7 @@ dropdown = Select(driver.find_element(By.ID, 'country'))
 dropdown.select_by_visible_text('France')
 time.sleep(3)
 
+#click
 all_matches = driver.find_element('xpath','//label[@analytics-event="All matches"]')
 all_matches.click()
 
