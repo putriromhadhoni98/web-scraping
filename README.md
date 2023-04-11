@@ -1,4 +1,4 @@
-]# Web Scraping
+# Web Scraping
 
 Web Scraping is as simple as the data extraction from a website.
 
