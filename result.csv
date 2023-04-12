@@ -1,1 +1,603 @@
 ,date,home,score,away_team
+0,05-08-2022,Lyon,2 - 1,Ajaccio
+1,14-08-2022,Ajaccio,0 - 0,Lens
+2,21-08-2022,Rennes,2 - 1,Ajaccio
+3,26-08-2022,Ajaccio,1 - 3,Lille
+4,31-08-2022,Montpellier,2 - 0,Ajaccio
+5,04-09-2022,Ajaccio,0 - 1,Lorient
+6,11-09-2022,Ajaccio,0 - 1,Nice
+7,18-09-2022,Brest,0 - 1,Ajaccio
+8,02-10-2022,Ajaccio,1 - 3,Clermont
+9,08-10-2022,Marseille,1 - 2,Ajaccio
+10,16-10-2022,Troyes,1 - 1,Ajaccio
+11,21-10-2022,Ajaccio,0 - 3,Paris SG
+12,30-10-2022,Auxerre,1 - 0,Ajaccio
+13,05-11-2022,Ajaccio,4 - 2,Strasbourg
+14,13-11-2022,Nantes,2 - 2,Ajaccio
+15,28-12-2022,Ajaccio,1 - 0,Angers
+16,01-01-2023,Toulouse,2 - 0,Ajaccio
+17,11-01-2023,Ajaccio,0 - 1,Reims
+18,15-01-2023,Monaco,7 - 1,Ajaccio
+19,29-01-2023,Ajaccio,0 - 2,Lyon
+20,01-02-2023,Angers,1 - 2,Ajaccio
+21,05-02-2023,Ajaccio,0 - 2,Nantes
+22,10-02-2023,Nice,3 - 0,Ajaccio
+23,19-02-2023,Lorient,3 - 0,Ajaccio
+24,26-02-2023,Ajaccio,2 - 1,Troyes
+25,05-03-2023,Reims,1 - 0,Ajaccio
+26,12-03-2023,Ajaccio,0 - 1,Montpellier
+27,19-03-2023,Ajaccio,0 - 2,Monaco
+28,02-04-2023,Clermont,2 - 1,Ajaccio
+29,09-04-2023,Ajaccio,? - ?,Auxerre
+30,07-08-2022,Angers,0 - 0,Nantes
+31,14-08-2022,Auxerre,2 - 2,Angers
+32,21-08-2022,Angers,1 - 3,Brest
+33,28-08-2022,Troyes,3 - 1,Angers
+34,31-08-2022,Angers,2 - 4,Reims
+35,03-09-2022,Lyon,5 - 0,Angers
+36,11-09-2022,Angers,2 - 1,Montpellier
+37,18-09-2022,Nice,0 - 1,Angers
+38,30-09-2022,Angers,0 - 3,Marseille
+39,09-10-2022,Angers,2 - 3,Strasbourg
+40,16-10-2022,Toulouse,3 - 2,Angers
+41,23-10-2022,Angers,1 - 2,Rennes
+42,30-10-2022,Monaco,2 - 0,Angers
+43,05-11-2022,Angers,1 - 2,Lens
+44,13-11-2022,Lille,1 - 0,Angers
+45,28-12-2022,Ajaccio,1 - 0,Angers
+46,01-01-2023,Angers,1 - 2,Lorient
+47,11-01-2023,Paris SG,2 - 0,Angers
+48,15-01-2023,Angers,1 - 2,Clermont
+49,29-01-2023,Brest,4 - 0,Angers
+50,01-02-2023,Angers,1 - 2,Ajaccio
+51,05-02-2023,Lorient,0 - 0,Angers
+52,12-02-2023,Angers,1 - 1,Auxerre
+53,18-02-2023,Strasbourg,2 - 1,Angers
+54,25-02-2023,Angers,1 - 3,Lyon
+55,05-03-2023,Montpellier,5 - 0,Angers
+56,12-03-2023,Angers,0 - 2,Toulouse
+57,18-03-2023,Lens,3 - 0,Angers
+58,02-04-2023,Angers,1 - 1,Nice
+59,08-04-2023,Angers,1 - 0,Lille
+60,07-08-2022,Lille,4 - 1,Auxerre
+61,14-08-2022,Auxerre,2 - 2,Angers
+62,21-08-2022,Montpellier,1 - 2,Auxerre
+63,27-08-2022,Auxerre,1 - 0,Strasbourg
+64,31-08-2022,Lyon,2 - 1,Auxerre
+65,03-09-2022,Auxerre,0 - 2,Marseille
+66,11-09-2022,Rennes,5 - 0,Auxerre
+67,16-09-2022,Auxerre,1 - 3,Lorient
+68,02-10-2022,Auxerre,1 - 1,Brest
+69,09-10-2022,Clermont,2 - 1,Auxerre
+70,16-10-2022,Auxerre,1 - 1,Nice
+71,23-10-2022,Reims,2 - 1,Auxerre
+72,30-10-2022,Auxerre,1 - 0,Ajaccio
+73,04-11-2022,Troyes,1 - 1,Auxerre
+74,13-11-2022,Paris SG,5 - 0,Auxerre
+75,28-12-2022,Auxerre,2 - 3,Monaco
+76,01-01-2023,Nantes,1 - 0,Auxerre
+77,11-01-2023,Auxerre,0 - 5,Toulouse
+78,14-01-2023,Lens,1 - 0,Auxerre
+79,29-01-2023,Auxerre,0 - 2,Montpellier
+80,01-02-2023,Monaco,3 - 2,Auxerre
+81,05-02-2023,Auxerre,0 - 0,Reims
+82,12-02-2023,Angers,1 - 1,Auxerre
+83,17-02-2023,Auxerre,2 - 1,Lyon
+84,26-02-2023,Lorient,0 - 1,Auxerre
+85,03-03-2023,Nice,1 - 1,Auxerre
+86,11-03-2023,Auxerre,0 - 0,Rennes
+87,19-03-2023,Strasbourg,2 - 0,Auxerre
+88,01-04-2023,Auxerre,1 - 0,Troyes
+89,09-04-2023,Ajaccio,? - ?,Auxerre
+90,07-08-2022,Lens,3 - 2,Brest
+91,14-08-2022,Brest,1 - 1,Marseille
+92,21-08-2022,Angers,1 - 3,Brest
+93,28-08-2022,Brest,0 - 7,Montpellier
+94,31-08-2022,Rennes,3 - 1,Brest
+95,04-09-2022,Brest,1 - 1,Strasbourg
+96,10-09-2022,Paris SG,1 - 0,Brest
+97,18-09-2022,Brest,0 - 1,Ajaccio
+98,02-10-2022,Auxerre,1 - 1,Brest
+99,09-10-2022,Brest,1 - 2,Lorient
+100,16-10-2022,Nantes,4 - 1,Brest
+101,23-10-2022,Clermont,1 - 3,Brest
+102,30-10-2022,Brest,0 - 0,Reims
+103,06-11-2022,Nice,1 - 0,Brest
+104,13-11-2022,Brest,2 - 1,Troyes
+105,28-12-2022,Brest,2 - 4,Lyon
+106,01-01-2023,Monaco,1 - 0,Brest
+107,11-01-2023,Brest,0 - 0,Lille
+108,15-01-2023,Toulouse,1 - 1,Brest
+109,29-01-2023,Brest,4 - 0,Angers
+110,01-02-2023,Lyon,0 - 0,Brest
+111,05-02-2023,Brest,1 - 1,Lens
+112,12-02-2023,Montpellier,3 - 0,Brest
+113,19-02-2023,Brest,1 - 2,Monaco
+114,24-02-2023,Lille,2 - 1,Brest
+115,05-03-2023,Strasbourg,0 - 1,Brest
+116,11-03-2023,Brest,1 - 2,Paris SG
+117,19-03-2023,Troyes,2 - 2,Brest
+118,02-04-2023,Brest,3 - 1,Toulouse
+119,09-04-2023,Reims,? - ?,Brest
+120,06-08-2022,Clermont,0 - 5,Paris SG
+121,14-08-2022,Reims,2 - 4,Clermont
+122,21-08-2022,Clermont,1 - 0,Nice
+123,28-08-2022,Lorient,2 - 1,Clermont
+124,31-08-2022,Marseille,1 - 0,Clermont
+125,04-09-2022,Clermont,2 - 0,Toulouse
+126,11-09-2022,Strasbourg,0 - 0,Clermont
+127,18-09-2022,Clermont,1 - 3,Troyes
+128,02-10-2022,Ajaccio,1 - 3,Clermont
+129,09-10-2022,Clermont,2 - 1,Auxerre
+130,16-10-2022,Monaco,1 - 1,Clermont
+131,23-10-2022,Clermont,1 - 3,Brest
+132,30-10-2022,Nantes,1 - 1,Clermont
+133,06-11-2022,Clermont,1 - 1,Montpellier
+134,12-11-2022,Lens,2 - 1,Clermont
+135,28-12-2022,Clermont,0 - 2,Lille
+136,01-01-2023,Lyon,0 - 1,Clermont
+137,11-01-2023,Clermont,2 - 1,Rennes
+138,15-01-2023,Angers,1 - 2,Clermont
+139,29-01-2023,Clermont,0 - 0,Nantes
+140,01-02-2023,Lille,0 - 0,Clermont
+141,05-02-2023,Clermont,0 - 2,Monaco
+142,11-02-2023,Clermont,0 - 2,Marseille
+143,19-02-2023,Rennes,2 - 0,Clermont
+144,26-02-2023,Clermont,1 - 1,Strasbourg
+145,05-03-2023,Toulouse,0 - 1,Clermont
+146,12-03-2023,Clermont,0 - 4,Lens
+147,19-03-2023,Montpellier,2 - 1,Clermont
+148,02-04-2023,Clermont,2 - 1,Ajaccio
+149,09-04-2023,Troyes,? - ?,Clermont
+150,07-08-2022,Lens,3 - 2,Brest
+151,14-08-2022,Ajaccio,0 - 0,Lens
+152,20-08-2022,Monaco,1 - 4,Lens
+153,27-08-2022,Lens,2 - 1,Rennes
+154,31-08-2022,Lens,5 - 2,Lorient
+155,04-09-2022,Reims,1 - 1,Lens
+156,09-09-2022,Lens,1 - 0,Troyes
+157,18-09-2022,Nantes,0 - 0,Lens
+158,02-10-2022,Lens,1 - 0,Lyon
+159,09-10-2022,Lille,1 - 0,Lens
+160,15-10-2022,Lens,1 - 0,Montpellier
+161,22-10-2022,Marseille,0 - 1,Lens
+162,28-10-2022,Lens,3 - 0,Toulouse
+163,05-11-2022,Angers,1 - 2,Lens
+164,12-11-2022,Lens,2 - 1,Clermont
+165,29-12-2022,Nice,0 - 0,Lens
+166,01-01-2023,Lens,3 - 1,Paris SG
+167,11-01-2023,Strasbourg,2 - 2,Lens
+168,14-01-2023,Lens,1 - 0,Auxerre
+169,28-01-2023,Troyes,1 - 1,Lens
+170,01-02-2023,Lens,0 - 1,Nice
+171,05-02-2023,Brest,1 - 1,Lens
+172,12-02-2023,Lyon,2 - 1,Lens
+173,19-02-2023,Lens,3 - 1,Nantes
+174,25-02-2023,Montpellier,1 - 1,Lens
+175,04-03-2023,Lens,1 - 1,Lille
+176,12-03-2023,Clermont,0 - 4,Lens
+177,18-03-2023,Lens,3 - 0,Angers
+178,01-04-2023,Rennes,0 - 1,Lens
+179,07-04-2023,Lens,2 - 1,Strasbourg
+180,15-04-2023,Paris SG,? - ?,Lens
+181,07-08-2022,Lille,4 - 1,Auxerre
+182,12-08-2022,Nantes,1 - 1,Lille
+183,21-08-2022,Lille,1 - 7,Paris SG
+184,26-08-2022,Ajaccio,1 - 3,Lille
+185,31-08-2022,Lille,1 - 2,Nice
+186,04-09-2022,Montpellier,1 - 3,Lille
+187,10-09-2022,Marseille,2 - 1,Lille
+188,17-09-2022,Lille,2 - 1,Toulouse
+189,02-10-2022,Lorient,2 - 1,Lille
+190,09-10-2022,Lille,1 - 0,Lens
+191,14-10-2022,Strasbourg,0 - 3,Lille
+192,23-10-2022,Lille,4 - 3,Monaco
+193,30-10-2022,Lyon,1 - 0,Lille
+194,06-11-2022,Lille,1 - 1,Rennes
+195,13-11-2022,Lille,1 - 0,Angers
+196,28-12-2022,Clermont,0 - 2,Lille
+197,02-01-2023,Lille,1 - 1,Reims
+198,11-01-2023,Brest,0 - 0,Lille
+199,15-01-2023,Lille,5 - 1,Troyes
+200,29-01-2023,Nice,1 - 0,Lille
+201,01-02-2023,Lille,0 - 0,Clermont
+202,04-02-2023,Rennes,1 - 3,Lille
+203,12-02-2023,Lille,2 - 0,Strasbourg
+204,19-02-2023,Paris SG,4 - 3,Lille
+205,24-02-2023,Lille,2 - 1,Brest
+206,04-03-2023,Lens,1 - 1,Lille
+207,10-03-2023,Lille,3 - 3,Lyon
+208,18-03-2023,Toulouse,0 - 2,Lille
+209,02-04-2023,Lille,3 - 1,Lorient
+210,08-04-2023,Angers,1 - 0,Lille
+211,07-08-2022,Rennes,0 - 1,Lorient
+212,21-08-2022,Toulouse,2 - 2,Lorient
+213,28-08-2022,Lorient,2 - 1,Clermont
+214,31-08-2022,Lens,5 - 2,Lorient
+215,04-09-2022,Ajaccio,0 - 1,Lorient
+216,07-09-2022,Lorient,3 - 1,Lyon
+217,11-09-2022,Lorient,3 - 2,Nantes
+218,16-09-2022,Auxerre,1 - 3,Lorient
+219,02-10-2022,Lorient,2 - 1,Lille
+220,09-10-2022,Brest,1 - 2,Lorient
+221,15-10-2022,Lorient,0 - 0,Reims
+222,23-10-2022,Troyes,2 - 2,Lorient
+223,30-10-2022,Lorient,1 - 2,Nice
+224,06-11-2022,Lorient,1 - 2,Paris SG
+225,13-11-2022,Strasbourg,1 - 1,Lorient
+226,29-12-2022,Lorient,0 - 2,Montpellier
+227,01-01-2023,Angers,1 - 2,Lorient
+228,11-01-2023,Lorient,2 - 2,Monaco
+229,14-01-2023,Marseille,3 - 1,Lorient
+230,27-01-2023,Lorient,2 - 1,Rennes
+231,01-02-2023,Reims,4 - 2,Lorient
+232,05-02-2023,Lorient,0 - 0,Angers
+233,12-02-2023,Nantes,1 - 0,Lorient
+234,19-02-2023,Lorient,3 - 0,Ajaccio
+235,26-02-2023,Lorient,0 - 1,Auxerre
+236,05-03-2023,Lyon,0 - 0,Lorient
+237,12-03-2023,Lorient,2 - 0,Troyes
+238,19-03-2023,Nice,1 - 1,Lorient
+239,02-04-2023,Lille,3 - 1,Lorient
+240,09-04-2023,Lorient,? - ?,Marseille
+241,05-08-2022,Lyon,2 - 1,Ajaccio
+242,19-08-2022,Lyon,4 - 1,Troyes
+243,28-08-2022,Reims,1 - 1,Lyon
+244,31-08-2022,Lyon,2 - 1,Auxerre
+245,03-09-2022,Lyon,5 - 0,Angers
+246,07-09-2022,Lorient,3 - 1,Lyon
+247,11-09-2022,Monaco,2 - 1,Lyon
+248,18-09-2022,Lyon,0 - 1,Paris SG
+249,02-10-2022,Lens,1 - 0,Lyon
+250,07-10-2022,Lyon,1 - 1,Toulouse
+251,16-10-2022,Rennes,3 - 2,Lyon
+252,22-10-2022,Montpellier,1 - 2,Lyon
+253,30-10-2022,Lyon,1 - 0,Lille
+254,06-11-2022,Marseille,1 - 0,Lyon
+255,11-11-2022,Lyon,1 - 1,Nice
+256,28-12-2022,Brest,2 - 4,Lyon
+257,01-01-2023,Lyon,0 - 1,Clermont
+258,11-01-2023,Nantes,0 - 0,Lyon
+259,14-01-2023,Lyon,1 - 2,Strasbourg
+260,29-01-2023,Ajaccio,0 - 2,Lyon
+261,01-02-2023,Lyon,0 - 0,Brest
+262,04-02-2023,Troyes,1 - 3,Lyon
+263,12-02-2023,Lyon,2 - 1,Lens
+264,17-02-2023,Auxerre,2 - 1,Lyon
+265,25-02-2023,Angers,1 - 3,Lyon
+266,05-03-2023,Lyon,0 - 0,Lorient
+267,10-03-2023,Lille,3 - 3,Lyon
+268,17-03-2023,Lyon,1 - 1,Nantes
+269,02-04-2023,Paris SG,0 - 1,Lyon
+270,09-04-2023,Lyon,? - ?,Rennes
+271,07-08-2022,Marseille,4 - 1,Reims
+272,14-08-2022,Brest,1 - 1,Marseille
+273,20-08-2022,Marseille,2 - 1,Nantes
+274,28-08-2022,Nice,0 - 3,Marseille
+275,31-08-2022,Marseille,1 - 0,Clermont
+276,03-09-2022,Auxerre,0 - 2,Marseille
+277,10-09-2022,Marseille,2 - 1,Lille
+278,18-09-2022,Marseille,1 - 1,Rennes
+279,30-09-2022,Angers,0 - 3,Marseille
+280,08-10-2022,Marseille,1 - 2,Ajaccio
+281,16-10-2022,Paris SG,1 - 0,Marseille
+282,22-10-2022,Marseille,0 - 1,Lens
+283,29-10-2022,Strasbourg,2 - 2,Marseille
+284,06-11-2022,Marseille,1 - 0,Lyon
+285,13-11-2022,Monaco,2 - 3,Marseille
+286,29-12-2022,Marseille,6 - 1,Toulouse
+287,02-01-2023,Montpellier,1 - 2,Marseille
+288,11-01-2023,Troyes,0 - 2,Marseille
+289,14-01-2023,Marseille,3 - 1,Lorient
+290,28-01-2023,Marseille,1 - 1,Monaco
+291,01-02-2023,Nantes,0 - 2,Marseille
+292,05-02-2023,Marseille,1 - 3,Nice
+293,11-02-2023,Clermont,0 - 2,Marseille
+294,19-02-2023,Toulouse,2 - 3,Marseille
+295,26-02-2023,Marseille,0 - 3,Paris SG
+296,05-03-2023,Rennes,0 - 1,Marseille
+297,12-03-2023,Marseille,2 - 2,Strasbourg
+298,19-03-2023,Reims,1 - 2,Marseille
+299,31-03-2023,Marseille,1 - 1,Montpellier
+300,09-04-2023,Lorient,? - ?,Marseille
+301,06-08-2022,Strasbourg,1 - 2,Monaco
+302,13-08-2022,Monaco,1 - 1,Rennes
+303,20-08-2022,Monaco,1 - 4,Lens
+304,28-08-2022,Paris SG,1 - 1,Monaco
+305,31-08-2022,Monaco,2 - 4,Troyes
+306,04-09-2022,Nice,0 - 1,Monaco
+307,11-09-2022,Monaco,2 - 1,Lyon
+308,18-09-2022,Reims,0 - 3,Monaco
+309,02-10-2022,Monaco,4 - 1,Nantes
+310,09-10-2022,Montpellier,0 - 2,Monaco
+311,16-10-2022,Monaco,1 - 1,Clermont
+312,23-10-2022,Lille,4 - 3,Monaco
+313,30-10-2022,Monaco,2 - 0,Angers
+314,06-11-2022,Toulouse,0 - 2,Monaco
+315,13-11-2022,Monaco,2 - 3,Marseille
+316,28-12-2022,Auxerre,2 - 3,Monaco
+317,01-01-2023,Monaco,1 - 0,Brest
+318,11-01-2023,Lorient,2 - 2,Monaco
+319,15-01-2023,Monaco,7 - 1,Ajaccio
+320,28-01-2023,Marseille,1 - 1,Monaco
+321,01-02-2023,Monaco,3 - 2,Auxerre
+322,05-02-2023,Clermont,0 - 2,Monaco
+323,11-02-2023,Monaco,3 - 1,Paris SG
+324,19-02-2023,Brest,1 - 2,Monaco
+325,26-02-2023,Monaco,0 - 3,Nice
+326,05-03-2023,Troyes,2 - 2,Monaco
+327,12-03-2023,Monaco,0 - 1,Reims
+328,19-03-2023,Ajaccio,0 - 2,Monaco
+329,02-04-2023,Monaco,4 - 3,Strasbourg
+330,09-04-2023,Nantes,? - ?,Monaco
+331,07-08-2022,Montpellier,3 - 2,Troyes
+332,13-08-2022,Paris SG,5 - 2,Montpellier
+333,21-08-2022,Montpellier,1 - 2,Auxerre
+334,28-08-2022,Brest,0 - 7,Montpellier
+335,31-08-2022,Montpellier,2 - 0,Ajaccio
+336,04-09-2022,Montpellier,1 - 3,Lille
+337,11-09-2022,Angers,2 - 1,Montpellier
+338,17-09-2022,Montpellier,2 - 1,Strasbourg
+339,02-10-2022,Toulouse,4 - 2,Montpellier
+340,09-10-2022,Montpellier,0 - 2,Monaco
+341,15-10-2022,Lens,1 - 0,Montpellier
+342,22-10-2022,Montpellier,1 - 2,Lyon
+343,30-10-2022,Rennes,3 - 0,Montpellier
+344,06-11-2022,Clermont,1 - 1,Montpellier
+345,13-11-2022,Montpellier,1 - 1,Reims
+346,29-12-2022,Lorient,0 - 2,Montpellier
+347,02-01-2023,Montpellier,1 - 2,Marseille
+348,11-01-2023,Nice,6 - 1,Montpellier
+349,15-01-2023,Montpellier,0 - 3,Nantes
+350,29-01-2023,Auxerre,0 - 2,Montpellier
+351,01-02-2023,Montpellier,1 - 3,Paris SG
+352,05-02-2023,Strasbourg,2 - 0,Montpellier
+353,12-02-2023,Montpellier,3 - 0,Brest
+354,19-02-2023,Troyes,0 - 1,Montpellier
+355,25-02-2023,Montpellier,1 - 1,Lens
+356,05-03-2023,Montpellier,5 - 0,Angers
+357,12-03-2023,Ajaccio,0 - 1,Montpellier
+358,19-03-2023,Montpellier,2 - 1,Clermont
+359,31-03-2023,Marseille,1 - 1,Montpellier
+360,09-04-2023,Montpellier,? - ?,Toulouse
+361,07-08-2022,Angers,0 - 0,Nantes
+362,12-08-2022,Nantes,1 - 1,Lille
+363,20-08-2022,Marseille,2 - 1,Nantes
+364,28-08-2022,Nantes,3 - 1,Toulouse
+365,31-08-2022,Strasbourg,1 - 1,Nantes
+366,03-09-2022,Nantes,0 - 3,Paris SG
+367,11-09-2022,Lorient,3 - 2,Nantes
+368,18-09-2022,Nantes,0 - 0,Lens
+369,02-10-2022,Monaco,4 - 1,Nantes
+370,09-10-2022,Rennes,3 - 0,Nantes
+371,16-10-2022,Nantes,4 - 1,Brest
+372,23-10-2022,Nice,1 - 1,Nantes
+373,30-10-2022,Nantes,1 - 1,Clermont
+374,06-11-2022,Reims,1 - 0,Nantes
+375,13-11-2022,Nantes,2 - 2,Ajaccio
+376,28-12-2022,Troyes,0 - 0,Nantes
+377,01-01-2023,Nantes,1 - 0,Auxerre
+378,11-01-2023,Nantes,0 - 0,Lyon
+379,15-01-2023,Montpellier,0 - 3,Nantes
+380,29-01-2023,Clermont,0 - 0,Nantes
+381,01-02-2023,Nantes,0 - 2,Marseille
+382,05-02-2023,Ajaccio,0 - 2,Nantes
+383,12-02-2023,Nantes,1 - 0,Lorient
+384,19-02-2023,Lens,3 - 1,Nantes
+385,26-02-2023,Nantes,0 - 1,Rennes
+386,04-03-2023,Paris SG,4 - 2,Nantes
+387,12-03-2023,Nantes,2 - 2,Nice
+388,17-03-2023,Lyon,1 - 1,Nantes
+389,02-04-2023,Nantes,0 - 3,Reims
+390,09-04-2023,Nantes,? - ?,Monaco
+391,07-08-2022,Toulouse,1 - 1,Nice
+392,14-08-2022,Nice,1 - 1,Strasbourg
+393,21-08-2022,Clermont,1 - 0,Nice
+394,28-08-2022,Nice,0 - 3,Marseille
+395,31-08-2022,Lille,1 - 2,Nice
+396,04-09-2022,Nice,0 - 1,Monaco
+397,11-09-2022,Ajaccio,0 - 1,Nice
+398,18-09-2022,Nice,0 - 1,Angers
+399,01-10-2022,Paris SG,2 - 1,Nice
+400,09-10-2022,Nice,3 - 2,Troyes
+401,16-10-2022,Auxerre,1 - 1,Nice
+402,23-10-2022,Nice,1 - 1,Nantes
+403,30-10-2022,Lorient,1 - 2,Nice
+404,06-11-2022,Nice,1 - 0,Brest
+405,11-11-2022,Lyon,1 - 1,Nice
+406,29-12-2022,Nice,0 - 0,Lens
+407,02-01-2023,Rennes,2 - 1,Nice
+408,11-01-2023,Nice,6 - 1,Montpellier
+409,15-01-2023,Reims,0 - 0,Nice
+410,29-01-2023,Nice,1 - 0,Lille
+411,01-02-2023,Lens,0 - 1,Nice
+412,05-02-2023,Marseille,1 - 3,Nice
+413,10-02-2023,Nice,3 - 0,Ajaccio
+414,18-02-2023,Nice,0 - 0,Reims
+415,26-02-2023,Monaco,0 - 3,Nice
+416,03-03-2023,Nice,1 - 1,Auxerre
+417,12-03-2023,Nantes,2 - 2,Nice
+418,19-03-2023,Nice,1 - 1,Lorient
+419,02-04-2023,Angers,1 - 1,Nice
+420,08-04-2023,Nice,0 - 2,Paris SG
+421,06-08-2022,Clermont,0 - 5,Paris SG
+422,13-08-2022,Paris SG,5 - 2,Montpellier
+423,21-08-2022,Lille,1 - 7,Paris SG
+424,28-08-2022,Paris SG,1 - 1,Monaco
+425,31-08-2022,Toulouse,0 - 3,Paris SG
+426,03-09-2022,Nantes,0 - 3,Paris SG
+427,10-09-2022,Paris SG,1 - 0,Brest
+428,18-09-2022,Lyon,0 - 1,Paris SG
+429,01-10-2022,Paris SG,2 - 1,Nice
+430,08-10-2022,Reims,0 - 0,Paris SG
+431,16-10-2022,Paris SG,1 - 0,Marseille
+432,21-10-2022,Ajaccio,0 - 3,Paris SG
+433,29-10-2022,Paris SG,4 - 3,Troyes
+434,06-11-2022,Lorient,1 - 2,Paris SG
+435,13-11-2022,Paris SG,5 - 0,Auxerre
+436,28-12-2022,Paris SG,2 - 1,Strasbourg
+437,01-01-2023,Lens,3 - 1,Paris SG
+438,11-01-2023,Paris SG,2 - 0,Angers
+439,15-01-2023,Rennes,1 - 0,Paris SG
+440,29-01-2023,Paris SG,1 - 1,Reims
+441,01-02-2023,Montpellier,1 - 3,Paris SG
+442,04-02-2023,Paris SG,2 - 1,Toulouse
+443,11-02-2023,Monaco,3 - 1,Paris SG
+444,19-02-2023,Paris SG,4 - 3,Lille
+445,26-02-2023,Marseille,0 - 3,Paris SG
+446,04-03-2023,Paris SG,4 - 2,Nantes
+447,11-03-2023,Brest,1 - 2,Paris SG
+448,19-03-2023,Paris SG,0 - 2,Rennes
+449,02-04-2023,Paris SG,0 - 1,Lyon
+450,08-04-2023,Nice,0 - 2,Paris SG
+451,15-04-2023,Paris SG,? - ?,Lens
+452,07-08-2022,Marseille,4 - 1,Reims
+453,14-08-2022,Reims,2 - 4,Clermont
+454,21-08-2022,Strasbourg,1 - 1,Reims
+455,28-08-2022,Reims,1 - 1,Lyon
+456,31-08-2022,Angers,2 - 4,Reims
+457,04-09-2022,Reims,1 - 1,Lens
+458,11-09-2022,Toulouse,1 - 0,Reims
+459,18-09-2022,Reims,0 - 3,Monaco
+460,02-10-2022,Troyes,2 - 2,Reims
+461,08-10-2022,Reims,0 - 0,Paris SG
+462,15-10-2022,Lorient,0 - 0,Reims
+463,23-10-2022,Reims,2 - 1,Auxerre
+464,30-10-2022,Brest,0 - 0,Reims
+465,06-11-2022,Reims,1 - 0,Nantes
+466,13-11-2022,Montpellier,1 - 1,Reims
+467,29-12-2022,Reims,3 - 1,Rennes
+468,02-01-2023,Lille,1 - 1,Reims
+469,11-01-2023,Ajaccio,0 - 1,Reims
+470,15-01-2023,Reims,0 - 0,Nice
+471,29-01-2023,Paris SG,1 - 1,Reims
+472,01-02-2023,Reims,4 - 2,Lorient
+473,05-02-2023,Auxerre,0 - 0,Reims
+474,12-02-2023,Reims,4 - 0,Troyes
+475,18-02-2023,Nice,0 - 0,Reims
+476,26-02-2023,Reims,3 - 0,Toulouse
+477,05-03-2023,Reims,1 - 0,Ajaccio
+478,12-03-2023,Monaco,0 - 1,Reims
+479,19-03-2023,Reims,1 - 2,Marseille
+480,02-04-2023,Nantes,0 - 3,Reims
+481,09-04-2023,Reims,? - ?,Brest
+482,07-08-2022,Rennes,0 - 1,Lorient
+483,13-08-2022,Monaco,1 - 1,Rennes
+484,21-08-2022,Rennes,2 - 1,Ajaccio
+485,27-08-2022,Lens,2 - 1,Rennes
+486,31-08-2022,Rennes,3 - 1,Brest
+487,04-09-2022,Troyes,1 - 1,Rennes
+488,11-09-2022,Rennes,5 - 0,Auxerre
+489,18-09-2022,Marseille,1 - 1,Rennes
+490,01-10-2022,Strasbourg,1 - 3,Rennes
+491,09-10-2022,Rennes,3 - 0,Nantes
+492,16-10-2022,Rennes,3 - 2,Lyon
+493,23-10-2022,Angers,1 - 2,Rennes
+494,30-10-2022,Rennes,3 - 0,Montpellier
+495,06-11-2022,Lille,1 - 1,Rennes
+496,12-11-2022,Rennes,2 - 1,Toulouse
+497,29-12-2022,Reims,3 - 1,Rennes
+498,02-01-2023,Rennes,2 - 1,Nice
+499,11-01-2023,Clermont,2 - 1,Rennes
+500,15-01-2023,Rennes,1 - 0,Paris SG
+501,27-01-2023,Lorient,2 - 1,Rennes
+502,01-02-2023,Rennes,3 - 0,Strasbourg
+503,04-02-2023,Rennes,1 - 3,Lille
+504,12-02-2023,Toulouse,3 - 1,Rennes
+505,19-02-2023,Rennes,2 - 0,Clermont
+506,26-02-2023,Nantes,0 - 1,Rennes
+507,05-03-2023,Rennes,0 - 1,Marseille
+508,11-03-2023,Auxerre,0 - 0,Rennes
+509,19-03-2023,Paris SG,0 - 2,Rennes
+510,01-04-2023,Rennes,0 - 1,Lens
+511,09-04-2023,Lyon,? - ?,Rennes
+512,06-08-2022,Strasbourg,1 - 2,Monaco
+513,14-08-2022,Nice,1 - 1,Strasbourg
+514,21-08-2022,Strasbourg,1 - 1,Reims
+515,27-08-2022,Auxerre,1 - 0,Strasbourg
+516,31-08-2022,Strasbourg,1 - 1,Nantes
+517,04-09-2022,Brest,1 - 1,Strasbourg
+518,11-09-2022,Strasbourg,0 - 0,Clermont
+519,17-09-2022,Montpellier,2 - 1,Strasbourg
+520,01-10-2022,Strasbourg,1 - 3,Rennes
+521,09-10-2022,Angers,2 - 3,Strasbourg
+522,14-10-2022,Strasbourg,0 - 3,Lille
+523,23-10-2022,Toulouse,2 - 2,Strasbourg
+524,29-10-2022,Strasbourg,2 - 2,Marseille
+525,05-11-2022,Ajaccio,4 - 2,Strasbourg
+526,13-11-2022,Strasbourg,1 - 1,Lorient
+527,28-12-2022,Paris SG,2 - 1,Strasbourg
+528,02-01-2023,Strasbourg,2 - 3,Troyes
+529,11-01-2023,Strasbourg,2 - 2,Lens
+530,14-01-2023,Lyon,1 - 2,Strasbourg
+531,29-01-2023,Strasbourg,1 - 2,Toulouse
+532,01-02-2023,Rennes,3 - 0,Strasbourg
+533,05-02-2023,Strasbourg,2 - 0,Montpellier
+534,12-02-2023,Lille,2 - 0,Strasbourg
+535,18-02-2023,Strasbourg,2 - 1,Angers
+536,26-02-2023,Clermont,1 - 1,Strasbourg
+537,05-03-2023,Strasbourg,0 - 1,Brest
+538,12-03-2023,Marseille,2 - 2,Strasbourg
+539,19-03-2023,Strasbourg,2 - 0,Auxerre
+540,02-04-2023,Monaco,4 - 3,Strasbourg
+541,07-04-2023,Lens,2 - 1,Strasbourg
+542,07-08-2022,Toulouse,1 - 1,Nice
+543,14-08-2022,Troyes,0 - 3,Toulouse
+544,21-08-2022,Toulouse,2 - 2,Lorient
+545,28-08-2022,Nantes,3 - 1,Toulouse
+546,31-08-2022,Toulouse,0 - 3,Paris SG
+547,04-09-2022,Clermont,2 - 0,Toulouse
+548,11-09-2022,Toulouse,1 - 0,Reims
+549,17-09-2022,Lille,2 - 1,Toulouse
+550,02-10-2022,Toulouse,4 - 2,Montpellier
+551,07-10-2022,Lyon,1 - 1,Toulouse
+552,16-10-2022,Toulouse,3 - 2,Angers
+553,23-10-2022,Toulouse,2 - 2,Strasbourg
+554,28-10-2022,Lens,3 - 0,Toulouse
+555,06-11-2022,Toulouse,0 - 2,Monaco
+556,12-11-2022,Rennes,2 - 1,Toulouse
+557,29-12-2022,Marseille,6 - 1,Toulouse
+558,01-01-2023,Toulouse,2 - 0,Ajaccio
+559,11-01-2023,Auxerre,0 - 5,Toulouse
+560,15-01-2023,Toulouse,1 - 1,Brest
+561,29-01-2023,Strasbourg,1 - 2,Toulouse
+562,01-02-2023,Toulouse,4 - 1,Troyes
+563,04-02-2023,Paris SG,2 - 1,Toulouse
+564,12-02-2023,Toulouse,3 - 1,Rennes
+565,19-02-2023,Toulouse,2 - 3,Marseille
+566,26-02-2023,Reims,3 - 0,Toulouse
+567,05-03-2023,Toulouse,0 - 1,Clermont
+568,12-03-2023,Angers,0 - 2,Toulouse
+569,18-03-2023,Toulouse,0 - 2,Lille
+570,02-04-2023,Brest,3 - 1,Toulouse
+571,09-04-2023,Montpellier,? - ?,Toulouse
+572,07-08-2022,Montpellier,3 - 2,Troyes
+573,14-08-2022,Troyes,0 - 3,Toulouse
+574,19-08-2022,Lyon,4 - 1,Troyes
+575,28-08-2022,Troyes,3 - 1,Angers
+576,31-08-2022,Monaco,2 - 4,Troyes
+577,04-09-2022,Troyes,1 - 1,Rennes
+578,09-09-2022,Lens,1 - 0,Troyes
+579,18-09-2022,Clermont,1 - 3,Troyes
+580,02-10-2022,Troyes,2 - 2,Reims
+581,09-10-2022,Nice,3 - 2,Troyes
+582,16-10-2022,Troyes,1 - 1,Ajaccio
+583,23-10-2022,Troyes,2 - 2,Lorient
+584,29-10-2022,Paris SG,4 - 3,Troyes
+585,04-11-2022,Troyes,1 - 1,Auxerre
+586,13-11-2022,Brest,2 - 1,Troyes
+587,28-12-2022,Troyes,0 - 0,Nantes
+588,02-01-2023,Strasbourg,2 - 3,Troyes
+589,11-01-2023,Troyes,0 - 2,Marseille
+590,15-01-2023,Lille,5 - 1,Troyes
+591,28-01-2023,Troyes,1 - 1,Lens
+592,01-02-2023,Toulouse,4 - 1,Troyes
+593,04-02-2023,Troyes,1 - 3,Lyon
+594,12-02-2023,Reims,4 - 0,Troyes
+595,19-02-2023,Troyes,0 - 1,Montpellier
+596,26-02-2023,Ajaccio,2 - 1,Troyes
+597,05-03-2023,Troyes,2 - 2,Monaco
+598,12-03-2023,Lorient,2 - 0,Troyes
+599,19-03-2023,Troyes,2 - 2,Brest
+600,01-04-2023,Auxerre,1 - 0,Troyes
+601,09-04-2023,Troyes,? - ?,Clermont
