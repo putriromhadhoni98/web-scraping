@@ -27,5 +27,4 @@ Web Scraping is as simple as the data extraction from a website.
 * Selenium: Works with JavaScript, easier to learn than Scrapy, slow. 
 * Scrapy: Harder to learn, fast, most complete framework.
 
-testing
-testing 2
+testinggg
