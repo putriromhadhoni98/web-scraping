@@ -61,4 +61,5 @@ book_info['Rating'].replace("Five", 5, inplace = True)
 
 print('testing')
 print('halo ini hanya testing')
+print('testing kembali')
   
